@@ -1,0 +1,15 @@
+>Codility : Array Rotation
+
+>Problem Statement
+
+-Given an array 'A' consisting of 'N' integers and an integer 'K',
+
+A = [3, 8, 9, 7, 6] and K = 3, the function should return [9, 7, 6, 3, 8].
+
+-write a function that rotates the array K times to the right.
+
+  "return the original array when N is zero
+  "return the original array when K is zero
+  "return the rotated array
+  
+
